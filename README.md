@@ -1,5 +1,3 @@
-## PML Interview Task
-
 ## Interactive Data Visualization of time series spatial data
 
 ## Tools used for the visualization
